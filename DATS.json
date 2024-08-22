@@ -8,7 +8,7 @@
   "creators": [
     {
       "abbreviation": "",
-      "fullName": "",
+      "fullName": "Jennifer C Whitman",
       "firstName": "Jennifer",
       "middleInitial": "C",
       "lastName": "Whitman",
@@ -27,7 +27,7 @@
           "category": "ORCID",
           "values": [
             {
-              "value": "https://orcid.org/0000-0002-5340-9390"
+              "value": "https://orcid.org/0000-0003-1666-9203"
             }
           ]
         }
@@ -93,7 +93,7 @@
       "email": "katie.lavigne@mcgill.ca",
       "affiliations": [
         {
-          "name": "McGill University"
+          "name": "University of British Columbia"
         }
       ],
       "roles": [
@@ -116,7 +116,7 @@
   "types": [
     {
       "information": {
-        "value": "csv"
+        "value": "Tabular data"
       }
     }
   ],
@@ -124,18 +124,23 @@
   "privacy": "open",
   "licenses": [
     {
-      "name": "GNU GPL 3.0"
+      "name": "Academic Public License"
+    },
+    {
+      "name": "CC BY-NC-SA"
     }
   ],
   "distributions": [
     {
-      "formats": [],
+      "formats": [
+        "LOG"
+      ],
       "size": 5.16,
       "unit": {
         "value": "MB"
       },
       "access": {
-        "landingPage": "https://osf.io/4dgby/",
+        "landingPage": "https://doi.org/10.17605/OSF.IO/4DGBY",
         "authorizations": [
           {
             "value": "public"
@@ -156,7 +161,177 @@
           "lastName": "Fouladirad",
           "affiliations": [
             {
-              "name": "University of British Columbia"
+              "name": "BC Mental Health and Substance Use Services, Vancouver, BC, Canada"
+            },
+            {
+              "name": "Faculty of Medicine, University of British Columbia, Vancouver, BC, Canada"
+            }
+          ]
+        },
+        {
+          "fullName": "Linda V Chen",
+          "firstName": "Linda",
+          "middleInitial": "V",
+          "lastName": "Chen",
+          "affiliations": [
+            {
+              "name": "BC Mental Health and Substance Use Services, Vancouver, BC, Canada"
+            },
+            {
+              "name": "Faculty of Science, University of British Columbia, Vancouver, BC, Canada"
+            }
+          ]
+        },
+        {
+          "fullName": "Meighen Roes",
+          "firstName": "Meighen",
+          "middleInitial": "",
+          "lastName": "Roes",
+          "affiliations": [
+            {
+              "name": "BC Mental Health and Substance Use Services, Vancouver, BC, Canada"
+            },
+            {
+              "name": "Department of Psychology, University of British Columbia, Vancouver, BC, Canada"
+            }
+          ]
+        },
+        {
+          "fullName": "Abhijit Chinchani",
+          "firstName": "Abhijit",
+          "middleInitial": "",
+          "lastName": "Chinchani",
+          "affiliations": [
+            {
+              "name": "BC Mental Health and Substance Use Services, Vancouver, BC, Canada"
+            },
+            {
+              "name": "Department of Psychiatry, University of British Columbia, Vancouver, BC, Canada"
+            }
+          ]
+        },
+        {
+          "fullName": "Chantal Percival",
+          "firstName": "Chantal",
+          "middleInitial": "",
+          "lastName": "Percival",
+          "affiliations": [
+            {
+              "name": "BC Mental Health and Substance Use Services, Vancouver, BC, Canada"
+            },
+            {
+              "name": "Department of Psychiatry, University of British Columbia, Vancouver, BC, Canada"
+            }
+          ]
+        },
+        {
+          "fullName": "Jessica Khangura",
+          "firstName": "Jessica",
+          "middleInitial": "",
+          "lastName": "Khangura",
+          "affiliations": [
+            {
+              "name": "BC Mental Health and Substance Use Services, Vancouver, BC, Canada"
+            },
+            {
+              "name": "Department of Psychiatry, University of British Columbia, Vancouver, BC, Canada"
+            }
+          ]
+        },
+        {
+          "fullName": "Hafsa Zahid",
+          "firstName": "Hafsa",
+          "middleInitial": "",
+          "lastName": "Zahid",
+          "affiliations": [
+            {
+              "name": "Institute of Biomedical Engineering, University of Toronto, Toronto, ON, Canada"
+            }
+          ]
+        },
+        {
+          "fullName": "Aly Moscovitz",
+          "firstName": "Aly",
+          "middleInitial": "",
+          "lastName": "Moscovitz",
+          "affiliations": [
+            {
+              "name": "BC Mental Health and Substance Use Services, Vancouver, BC, Canada"
+            },
+            {
+              "name": "Department of Psychiatry, University of British Columbia, Vancouver, BC, Canada"
+            }
+          ]
+        },
+        {
+          "fullName": "Leonardo Arreaza",
+          "firstName": "Leonardo",
+          "middleInitial": "",
+          "lastName": "Arreaza",
+          "affiliations": [
+            {
+              "name": "BC Mental Health and Substance Use Services, Vancouver, BC, Canada"
+            },
+            {
+              "name": "Department of Psychiatry, University of British Columbia, Vancouver, BC, Canada"
+            }
+          ]
+        },
+        {
+          "fullName": "Charlotte Win",
+          "firstName": "Charlotte",
+          "middleInitial": "",
+          "lastName": "Wun",
+          "affiliations": [
+            {
+              "name": "BC Mental Health and Substance Use Services, Vancouver, BC, Canada"
+            },
+            {
+              "name": "Department of Psychiatry, University of British Columbia, Vancouver, BC, Canada"
+            }
+          ]
+        },
+        {
+          "fullName": "Nicole Sanford",
+          "firstName": "Nicole",
+          "middleInitial": "",
+          "lastName": "Sanford",
+          "affiliations": [
+            {
+              "name": "Department of Psychiatry, University of British Columbia, Vancouver, BC, Canada"
+            }
+          ]
+        },
+        {
+          "fullName": "Ryan Balzan",
+          "firstName": "Ryan",
+          "middleInitial": "",
+          "lastName": "Balzan",
+          "affiliations": [
+            {
+              "name": "College of Education, Psychology & Social Work, Flinders University, Adelaide, SA, Australia"
+            }
+          ]
+        },
+        {
+          "fullName": "Steffen Moritz",
+          "firstName": "Steffen",
+          "middleInitial": "",
+          "lastName": "Moritz",
+          "affiliations": [
+            {
+              "name": "Department of Psychiatry and Psychotherapy, University Medical Center Hamburg-Eppendorf, Hamburg, Germany"
+            }
+          ]
+        },
+        {
+          "fullName": "Mahesh Menon",
+          "firstName": "Mahesh",
+          "middleInitial": "",
+          "lastName": "Menon",
+          "affiliations": [
+            {
+              "name": "Department of Psychiatry, University of British Columbia, Vancouver, BC, Canada"
             }
           ]
         },
@@ -167,7 +342,10 @@
           "lastName": "Woodward",
           "affiliations": [
             {
-              "name": "University of British Columbia"
+              "name": "BC Mental Health and Substance Use Services, Vancouver, BC, Canada"
+            },
+            {
+              "name": "Department of Psychiatry, University of British Columbia, Vancouver, BC, Canada"
             }
           ]
         }
@@ -176,7 +354,7 @@
         {
           "date": "2022-04-08 00:00:00",
           "type": {
-            "value": "published"
+            "value": "version of record"
           }
         }
       ],
@@ -305,6 +483,20 @@
       ]
     },
     {
+      "category": "experimentValidationPopulations",
+      "values": [
+        {
+          "value": "Adult"
+        },
+        {
+          "value": "Healthy"
+        },
+        {
+          "value": "Disease"
+        }
+      ]
+    },
+    {
       "category": "experimentAccessibility",
       "values": [
         {
@@ -320,6 +512,9 @@
         },
         {
           "value": "EEG"
+        },
+        {
+          "value": "Behavioural"
         }
       ]
     },
@@ -328,6 +523,17 @@
       "values": [
         {
           "value": "Computer"
+        },
+        {
+          "value": "Laptop"
+        }
+      ]
+    },
+    {
+      "category": "experimentRequiredSoftware",
+      "values": [
+        {
+          "value": "NBS Presentation version 17"
         }
       ]
     },
@@ -343,7 +549,11 @@
       "category": "experimentAdditionalRequirements",
       "values": [
         {
-          "value": "2-button response box or mouse/keyboard required"
+          "value": [
+            [
+              "2-button response box or mouse/keyboard required"
+            ]
+          ]
         }
       ]
     },
